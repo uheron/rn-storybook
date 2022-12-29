@@ -9,7 +9,7 @@
     "test": "jest",
     "lint": "eslint .",
     "storybook": "start-storybook -p 7007",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook -o docs-build"
   },
   "dependencies": {
     "react": "18.1.0",
